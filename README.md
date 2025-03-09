@@ -8,7 +8,7 @@
 ```js
 document.write("Hello World");
 Developer dev = new Developer(Shashank Saxena);
-const Sagar = {
+const Shashank = {
     pronouns: "he" | "his",
     status: Student,
     technologies: {
